@@ -1,6 +1,6 @@
 - [首页](/)
 - [论语](/论语)
-- [大学](/TheGreatLearning/README.md)
+- [大学](/TheGreatLearning)
   - [总览](/TheGreatLearning/README.md)
   - [第2天](/TheGreatLearning/第2天)
   - [第3天](/TheGreatLearning/第3天)
