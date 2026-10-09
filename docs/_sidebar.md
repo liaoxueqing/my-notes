@@ -15,3 +15,5 @@
   - [【十】.弘道第15天](/TheGreatLearning/10)
   - [【十一】.弘道第16天](/TheGreatLearning/11)
   - [【十二】.弘道第17天](/TheGreatLearning/12)
+  - [【十三】.弘道第18天](/TheGreatLearning/13)
+  - [【十四】.弘道第19天](/TheGreatLearning/14)
